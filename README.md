@@ -4,10 +4,10 @@ Basic scraping script
 # Install
 
 ## Requirements
-
-* pip
-* pandas
-* requests
+* Python 3
+* Python Installer Package
+* Pandas
+* Request
 * BeautifulSoup
 
 ## Linux
