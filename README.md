@@ -35,7 +35,7 @@ Change the URL to scrapt.
           
 Change the TAG items name and his classes
 
-          eq = soup.find_all('{insertTAGhere}', class_='{insertCLASShere}')
+          data = soup.find_all('{insertTAGhere}', class_='{insertCLASShere}')
           
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
