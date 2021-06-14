@@ -14,7 +14,7 @@ Basic scraping script
           cd scrapt-script/
          
 
-## Git download for anothers S.O
+## Anothers S.O
 
 * http://git-scm.com/download/win
 * http://git-scm.com/download/mac
