@@ -4,7 +4,7 @@ Basic scraping script
 # Install
 
 ## Requirements
-* Python 3
+* Python3
 * Python Installer Package
 * Pandas
 * Request
