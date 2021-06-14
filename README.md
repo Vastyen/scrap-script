@@ -3,6 +3,13 @@ Basic scraping script
 
 # Install
 
+## Requirements
+
+* pip
+* pandas
+* requests
+* BeautifulSoup
+
 ## Linux
 
           sudo apt install git
